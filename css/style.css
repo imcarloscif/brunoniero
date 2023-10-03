@@ -74,6 +74,7 @@ a.link:hover{
     padding-right: 25%;
     font-family: 'EB Garamond', serif;
     font-size: 28px;
+    line-height: 1.2em;
 }
 
 .title {
@@ -102,7 +103,7 @@ a.link:hover{
     padding-top: 10%;
     padding-bottom: 10%;
     font-size: 28px;
-    line-height: 25px;
+    line-height: 1.2em;
     letter-spacing:0.5px;
 }
 
